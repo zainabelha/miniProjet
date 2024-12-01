@@ -1,7 +1,7 @@
 Description du Projet
 Ce projet simule un système d'intelligence artificielle basé sur des comportements de véhicules dans un environnement interactif. Les véhicules peuvent se déplacer, suivre un leader, éviter des obstacles, errer de manière autonome ou attaquer un ennemi. Le comportement des véhicules est influencé par des forces de steering (guidage) et des règles définies pour chaque mode d'interaction.
 
-Fonctionnalités Principales
+Fonctionnalités Principales:
 Suivi du curseur : Le leader principal suit le curseur de la souris.
 Formation de groupe : Les véhicules ajoutés forment un "snake" en suivant le véhicule précédent.
 Wanderers : Certains véhicules errent de manière autonome dans l'environnement.
